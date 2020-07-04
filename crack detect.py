@@ -118,8 +118,3 @@ cv2.imshow("img-out",img)
 cv.imwrite("输出图像路径", img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
-
-
-
-
